@@ -1,5 +1,4 @@
 # Formation-OpenClassRooms
-Mes différents projets réalisés pendant ma formation Data Analyst OCR ENSAE-ENSAI.
 
 Vous trouverez ici différents projets réalisés en Python pour la plupart, accompagnés de leurs notebooks Jupyter pour une exploration interactive :
 
